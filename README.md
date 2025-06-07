@@ -1,3 +1,10 @@
+Instruction:
+This tool can convert gbk file to utf8 format and vice versa. Default mode is gbk to utf8. You may find the example as followed.
+Accepted parameters:
+-r recursively traverse sourcefolder to generate in targetfolder
+-m choose mode, gt8 or 8tg, gbk to utf8 or utf8 to gbk.
+-h show this help info
+-V version
 使用说明:
 本工具可以gbk和utf8文本互相转换，默认使用gbk转utf8模式。
 可单文件/文件夹递归转换。
